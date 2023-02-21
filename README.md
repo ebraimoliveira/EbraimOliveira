@@ -30,3 +30,7 @@
 <p> 
   Liberdade  Diversidade  Respeito
 </p>
+
+
+ 
+ ![snake gif](https://github.com/EbraimOliveira/EbraimOliveira/blob/output/github-contribution-grid-snake.gif)
