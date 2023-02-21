@@ -31,6 +31,4 @@
   Liberdade  Diversidade  Respeito
 </p>
 
-
- ## Snake eating my contribution graph
  ![snake gif](https://github.com/EbraimOliveira/EbraimOliveira/blob/output/github-contribution-grid-snake.gif)
