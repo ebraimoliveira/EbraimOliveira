@@ -25,6 +25,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pictograms-nps-land-technical_rock_climbing.svg/1200px-Pictograms-nps-land-technical_rock_climbing.svg.png">
 </div>
 <br></br>
+<br></br>
 
 <p> 
   Liberdade  Diversidade  Respeito
