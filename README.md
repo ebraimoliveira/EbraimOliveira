@@ -28,7 +28,7 @@
 <br></br>
 <br></br>
 
-<p> 
+<em><p> 
   Liberdade  Diversidade  Respeito
-</p>
+</p></em>
 
